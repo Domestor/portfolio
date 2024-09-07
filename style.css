@@ -98,3 +98,9 @@ body {
 .navigation__text {
     background: url('https://img.icons8.com/ios-filled/50/about.png')0 0 no-repeat;
 }
+
+@media screen and (max-width: 768px){
+   .wrapper__container {
+      flex-direction: column;
+   }
+}
