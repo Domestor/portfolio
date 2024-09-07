@@ -41,7 +41,7 @@ h1,h2, h3, h4, h5, h6{font-style: inherit; font-weight: 400;}
 body {
     display: flex;
     justify-content: center;
-    height: 100vh; /* Висота сторінки на весь екран */
+    height: 100vh; 
     background-color: #000000;
     font-family: "Poppins", sans-serif;
 }
@@ -56,7 +56,7 @@ body {
 }
 
 .container__sidebar {
-    width: 25%; /* Ширина бокової панелі */
+    width: 25%; 
     background-color: #1e1d1d;
     padding: 20px;
     box-sizing: border-box; 
@@ -67,7 +67,7 @@ body {
 }
 
 .container__main {
-    width: 75%; /* Ширина основного контенту */
+    width: 75%; 
     background-color: #1e1d1d;
     padding: 20px;
     box-sizing: border-box;
